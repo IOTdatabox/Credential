@@ -1,0 +1,11 @@
+Hi, there!
+
+As a Flutter/Dart developer, I have experience building and launching mobile applications on both Android and iOS platforms. I am experienced in creating delightful user interfaces using Material Design and Cupertino widgets, as well as integrating RESTful APIs and web services into mobile applications. 
+
+Additionally, I have strong knowledge of Dart programming language, and I am familiar with various state management patterns such as BLoC, Provider, MobX, and Redux. Moreover, I have hands-on experience in working with Firebase Cloud Services like Authentication, Cloud Firestore, Storage, Push Notifications, and Analytics. 
+
+In my previous roles, I have successfully developed and deployed several mobile applications within the given deadlines. I have also worked collaboratively with UI/UX designers, QA engineers, and product managers to ensure high-quality products that meet client specifications. 
+
+Thank you for considering my application. 
+
+Sincerely, 
