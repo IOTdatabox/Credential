@@ -1,0 +1,42 @@
+<person>
+    <name>
+        <english>Waison Lee</english>
+        <chinese>魏松利</chinese>
+    </name>
+    <contact>
+        <primaryEmail>whaydigital@gmail.com</primaryEmail>
+        <subEmail>waison.lee1029@gmail.com</subEmail>
+        <phone>+1 541 241 7966</phone>
+        <skype>
+            <id>live:.cid.94895236bb88a6c8</id>
+            <email>whaydigital@gmail.com</email>
+            <display>ydgtal</display>
+            <image>Waison Lee/Src/Photos/heart.png</image>
+        </skype>
+        <telegram>
+            <phone>(265)880374549</phone>
+            <display>ydgtal</display>
+            <bio>love tech, love people more.</bio>
+            <image>Waison Lee/Src/Photos/heart.png</image>
+        </telegram>
+        <discord>
+            <id>ydgtal</id>
+            <display>ydgtal</display>
+            <bio>love tech, love people more.</bio>
+            <image>Waison Lee/Src/Photos/could.jpg</image>
+        </discord>
+    </contact>
+    <payment>
+        <wise>
+            <email>waison.lee1029@gmail.com</email>
+            <password>Khanje12++</password>
+            <phone>+1 541 241 7966</phone>
+        </wise>
+    </payment>
+    <address>
+        <country>Canada</country>
+        <city>Beaconsfield</city>
+        <zip>H9W 5K5</zip>
+        <adr>1 Prairie Dr</adr>
+    </address>
+</person>

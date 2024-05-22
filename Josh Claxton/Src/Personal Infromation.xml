@@ -1,0 +1,42 @@
+<person>
+    <credential>
+        <name>Josh Claxton</name>
+        <ssn>638389102</ssn>
+    </credential>
+    <contact>
+        <primaryEmail>jclaxton.lean@gmail.com</primaryEmail>
+        <phone>+1 541 241 7966</phone>
+        <skype>
+            <id>live:.cid.899e8cae394c811d</id>
+            <email>claxton.lean@gmail.com</email>
+            <display>Josh Claxton</display>
+            <image>Josh Claxton/Src/Photos/Public.jpg</image>
+        </skype>
+        <discord>
+            <id>letmakesynergy_45957</id>
+            <display>tweety</display>
+            <bio>Senior Full Stack Developer a unique blend of creative thinking, solution
+                engineering, and product development.</bio>
+            <image>Josh Claxton/Src/Photos/Tweety.png</image>
+        </discord>
+        <linkedin>
+            <url>https://www.linkedin.com/in/josh-claxton</url>
+            <bio>Whether you're in blue ocean or red ocean, whether you're running or building a
+                business, whether you're trying to sustain or move your business forward, Now I'm
+                here as a full stack developer with experience in product development, data analysis
+                as I can help you by with a computer and data.
+            </bio>
+            <avatar_image>Josh Claxton/Src/Photos/Linkedin_Avatar.jpg</avatar_image>
+            <background_image>Josh Claxton/Src/Photos/Tweety.png</background_image>
+        </linkedin>
+        <website>
+            <url>https://josh-claxton.vercel.app/</url>
+        </website>
+    </contact>
+    <address>
+        <country>United States</country>
+        <city>Midland</city>
+        <zip>79707</zip>
+        <adr>4730 W DENGAR AVE</adr>
+    </address>
+</person>
