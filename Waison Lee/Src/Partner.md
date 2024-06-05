@@ -1,4 +1,7 @@
 # Business Partners Information
+- [Antonio Ripoll](#antonio-ripoll)
+- [Yoshi Kamae](#yoshi-kamae)
+- [Aksel Allouch](#aksel-allouch)
 
 ## Antonio Ripoll
 
@@ -16,7 +19,7 @@
 
 ---
 
-## Yoshi Kamae (搆 義行)
+## Yoshi Kamae
 
 - **Phone**: 819-0396-86739
 - **Emails**:
@@ -53,5 +56,9 @@
   - **Upwork Password**: Aksel1983!
   - **LinkedIn Password**: AkselA1983!@#
   - **Anydesk ID and Password**: 1064144497 / Aksel1983!
+  - **Github**: Aksel1983! / BF2WYS5HIK54K5FK
   - **VNC Address and Password**: 76.19.212.93:5900 / Aksel123
 - **SSN (Last 4 Digits)**: 3966
+- **AWS**:
+  - aksel@futuralis.com
+  - Amazon1983!

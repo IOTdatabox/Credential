@@ -1,4 +1,23 @@
-# Angular
+# Bid Templates by Technology
+
+Click on a stack to navigate to the corresponding bid template.
+
+- [Angular](#angular)
+- [BlockChain](#blockchain)
+- [Django](#django)
+- [Net](#net)
+- [Ecommerce - WordPress](#ecommerce---wordpress)
+- [Ecommerce](#ecommerce)
+- [Flutter](#flutter)
+- [Full stack Web Development](#full-stack-web-development)
+- [Laravel](#laravel)
+- [Node](#node)
+- [React](#react)
+- [Next](#next)
+- [Shopify](#shopify)
+- [Vue](#vue)
+
+## Angular
 
 Greetings,
 
@@ -20,7 +39,17 @@ With my skills and experiences, I can develop your project perfectly on time.
 Looking forward to hearing from you.
 Best Regards,
 
-# Django
+## BlockChain
+
+Hello Roland, I am a Blockchain and Cryptocurrency expert who is having +10 years of experience.
+I have rich hands on experience worked on Binance, Coinbase pro, STEX, ICO, Tron …etc cryptocurrence exchange platforms using RESTful, pancakeswap, uniswap, simpleswap api…etc.
+My skills are ETH, BTC, EGLD(Elrond), Dapp, TRON, DEFI, NFT, SOLIDITY, Smart contracts, ICO, TOKENS, …etc.
+I have successfully completed lots of cryptocurrency projects such as cryptocurrency exchange systems, cryptocurrency trading bots, deploying the smart contract and many other custom Blockchain solutions.
+Please check my reviews then you can believe my skills.
+I am ready to start working for you.
+Looking forward to hearing you.
+
+## Django
 
 Greetings,
 
@@ -40,7 +69,7 @@ Technologies: Backend: Django 1.8, Postgresql, ElasticSearch, Redis, Amazon S3, 
 Thanks for your read, ready to discuss more about the project during the interview.
 Best regards, 
 
-# .Net
+## .Net
 
 Greetings,
 
@@ -65,7 +94,7 @@ https://www.sunriselabs.com/ (Python, .NET)
 Thanks for your read, ready to discuss more about the project during the interview.
 Best regards, 
 
-# Ecomerce - WordPress
+## Ecommerce - WordPress
 
 Hello
 
@@ -81,7 +110,7 @@ I am looking for the clear requirements docs of your site so that I can start wo
 
 Best regards, 
 
-# Ecomerce
+## Ecommerce
 
 Hi,
 
@@ -105,7 +134,7 @@ Let's discuss further on the project.
 
 Sincerely,
 
-# Flutter
+## Flutter
 
 Hi, there!
 
@@ -119,7 +148,7 @@ Thank you for considering my application.
 
 Best Regards, 
 
-# Full stack Web Development
+## Full stack Web Development
 
 Hi, Regarding your job success as mine, feel that I am a potentailly right suited candidate for your website. Having more than 5 years experience in fullstackjs: Mern/Mean/Mevn, React+laravel, python, I can finish your project with in due date and budget. 
 
@@ -132,7 +161,7 @@ I have had a lot of golden skills, know-hows in the following
 Wish to be part of your success with my own knowledge and error prone code base.
 Thanks for your consideration.
 
-# Laravel
+## Laravel
 
 Hello, I might to be potentionaly right candidate to help you achieve your goals. cause I am a talented fullstack developer with over 5 years experience in web development.
 
@@ -145,7 +174,7 @@ https://www.flip-x.in/              php, codeIgnitor
 I want to be involved with your project if you don't mind. I can make your job success with great coding standards and good quality.
 Please contact me via message. Best Regards, awaiting to be contacted.
 
-# Node
+## Node
 
 Greetings,
 
@@ -176,25 +205,49 @@ And having dealt with lots of algorithmic research before working on this web de
 Ready to discuss more about the project during the interview.
 Best regards,
 
-# React
+## React
 
 Hi,
-I'm sure I can be an ideal candidate for this position.
-I'm a full stack developer focused on the frontend, with my special interest in React.
-I have 7 years of web development experience. I worked for many startups and agencies and developed many web applications small and large - and complex in logic.
-
-Please let me show some of my works.
-https://leadconversion.io/
-https://dollah.co/
-
+I am , To provide immediately actionable intelligence on vessel operations is great value In Singapore.
+I believe that I can bring your SaaS to life by using my experience between technology and practicality.
+Node, React/Next, all the AWS product suite, or even Tailwind are all in the area of my hands-on experience.
+Almost frontends in all my previous projects were built with React/Next/Tailwind.
+Let's collaborate to bring your vision to life and achieve success together. Email back at your earliest convenience
 My primary expertise is React, Redux, Redux-thunk, Redux Saga, Next.js, Node.js, Express.js, ECMAScript6, Typescript, DB Programming, Webpack, Gulp, Grunt, Restful & 3rd Party API integration.
-Having read through your job description, I'm very confident that I'll be able to provide a dedicated service as I have all the skillsets necessary for this product.
-For collaboration I also use Git/Bitbucket, JIRA/Asana/Trello.
-I am passionate for exellence and have a strong work ethics.
-Looking forward to build a long-term relationship with you based on quality and trust.
-Best regards,
+Thanks and Regards,
 
-# Vue
+## Next
+
+Hello,
+I'm , who is skilled at balancing vision with execution, delivering user-friendly, piexel-perfect front-end work, while also fully managing the design of API endpoints and database schema and DevOps on the back-end layer.
+
+Through out of my career handled several Next.js projects, I have years of experience in Next itself, React/Redux/Node, Tailwind CSS, Typescript, GraphQL, Docker, Jest, etc.
+
+Please take a closer look at the comprehensive RV spots service to which I have proactively contributed by enhancing its functionalities.
+https://www.hipcamp.com/en-US
+
+In the project, I utilized React Query for data fetching and implemented Caching layer with Redis.
+Also, I audited comprehensive postgreSQL infra in Supabase and applied query/schema optimization.
+
+I am confident I could be a great fit - AT both of skill and ethic.
+
+Looking forward to hearing from you.
+Thanks and Regards,
+
+## Shopify
+
+Hello, Lalacey team
+I am Aksel, super interested in enhancing your store.
+I've developed and modified many Shopify projects related with shipping, payment, fabulous design needs for products.
+Please have a closer look at the following store which I've built from scratch.
+https://shopwilddove.com
+In this project, I've implemented mobile-responsiveness perfectly and adopted webpack and cashing tech in order to reduce latency.
+I am confident you will get pixel-perfect, mobile-friendly and well-architected online store.
+I wish for a delighted response from you.
+Thanks and Regards,
+Aksel
+
+## Vue
 
 Hi,
 
@@ -215,10 +268,3 @@ https://www.familytree365.com/
 Let's discuss further on chat. I am confident that I can add a lot of value to this opportunity. Await your response. Thank You.
 
 Best Regards,
-
-
-
-
-
-
-

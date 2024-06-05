@@ -1,4 +1,4 @@
-I'm a full-stack software engineer with a global mindset and years of experience working in a bunch of different fields like eCommerce, Fintech, data management and building SaaS applications for both web and mobile.
+I am Waison Lee, a full-stack software engineer with a global mindset and years of experience working in a bunch of different fields like eCommerce, Fintech, data management and building SaaS applications for both web and mobile.
 
 Recently, I started a new chapter as a co-founder of Akselsoft, and right now, I'm all in on making sure our operations run smoothly. We're just starting out, but we've got big plans and the drive to make something meaningful happen.
 

@@ -1,6 +1,6 @@
 # Waison Lee
 **Full Stack Developer**  
-📱 5412417966 • ✉️ whaydigital@gmail.com  
+📱 5412417966 • ✉️ waison.lee1029@gmail.com
 
 ---
 
@@ -29,7 +29,7 @@ _06/2020 – 04/2022_
 - Conducted comprehensive usability tests and analyzed user feedback to revamp the user experience of two published mobile applications, leading to a remarkable 25% increase in user retention and a solid 15% growth in monthly active users.
 
 ### OCS Malaysia, Shah Alam, Malaysia
-_**Full Stack Engineer**_  
+_**Full Stack Engineer**_
 _10/2018 – 06/2020_
 - Developed an entertainment MVP, integrating React and Angular for dynamic front-end experiences and Django for robust server-side functionality.
 - Utilized Pandas for data manipulation and analysis, ensuring efficient handling of large datasets within the platform.
