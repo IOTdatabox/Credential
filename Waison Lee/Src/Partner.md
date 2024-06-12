@@ -40,7 +40,7 @@
   - **Password**: VancouverTokyo2023
 
 ---
-
+re
 ## Aksel Allouch
 
 - **Phone**: 1-857-277-4668
@@ -62,3 +62,4 @@
 - **AWS**:
   - aksel@futuralis.com
   - Amazon1983!
+https://calendly.com/akselallouch/30min

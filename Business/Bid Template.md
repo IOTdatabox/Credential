@@ -9,13 +9,19 @@ Click on a stack to navigate to the corresponding bid template.
 - [Ecommerce - WordPress](#ecommerce---wordpress)
 - [Ecommerce](#ecommerce)
 - [Flutter](#flutter)
-- [Full stack Web Development](#full-stack-web-development)
 - [Laravel](#laravel)
 - [Node](#node)
 - [React](#react)
 - [Next](#next)
 - [Shopify](#shopify)
 - [Vue](#vue)
+
+# Cover Letters by Job
+- [Full Stack Javascript](#full-stack-javascript)
+- [Full Stack Javascript & Python](#full-stack-javascript-python)
+
+
+https://www.toogit.com/
 
 ## Angular
 
@@ -63,7 +69,7 @@ I have a proactive attitude with sense of ownership and strong work ethics and h
 
 Please check the following websites as a reference to my recent work :
 
-https://www.credibase.com/
+https://au.gradconnection.com/
 Technologies: Backend: Django 1.8, Postgresql, ElasticSearch, Redis, Amazon S3, RQ, Pillow, Django Rest Framwork. Frontend: jQuery, Knockout.js, lodash, Typeahead, Masonry
 
 Thanks for your read, ready to discuss more about the project during the interview.
@@ -226,7 +232,7 @@ Through out of my career handled several Next.js projects, I have years of exper
 Please take a closer look at the comprehensive RV spots service to which I have proactively contributed by enhancing its functionalities.
 https://www.hipcamp.com/en-US
 
-In the project, I utilized React Query for data fetching and implemented Caching layer with Redis.
+In the project, I built all spot gallery components/pages and utilized React Query for data fetching and implemented Caching layer with Redis.
 Also, I audited comprehensive postgreSQL infra in Supabase and applied query/schema optimization.
 
 I am confident I could be a great fit - AT both of skill and ethic.
@@ -268,3 +274,34 @@ https://www.familytree365.com/
 Let's discuss further on chat. I am confident that I can add a lot of value to this opportunity. Await your response. Thank You.
 
 Best Regards,
+
+# Full Stack Javascript
+Hello,
+I'm , who is skilled at balancing vision with execution, delivering user-friendly, pixel-perfect front-end work, while also fully managing the design of API endpoints and database schema, DevOps, and MLOps on the back-end layer.
+
+Having reviewed your job description thoroughly, I'm confident that I'm well-suited for the task. My expertise spans a diverse array of programming languages, architecture styles and modern frameworks, including all the AWS product suite, JS/TS, React/Next/Angular/Vue, Node/Nest, etc.
+ I don't care too much what language I use — yet I do prefer javascript and it's frameworks.
+I love both creating innovative digital products and working with my team, regardless of which affection spurred the other.
+Let's work, 
+Best regards,
+
+# Full Stack Javascript Python
+Hello,
+I'm , who is skilled at balancing vision with execution, delivering user-friendly, pixel-perfect front-end work, while also fully managing the design of API endpoints and database schema, DevOps, and MLOps on the back-end layer.
+
+Having reviewed your job description thoroughly, I'm confident that I'm well-suited for the task. My expertise spans a diverse array of programming languages, architecture styles and modern frameworks, including all the AWS product suite, Python, Django, JS/TS, React/Next/Angular/Vue, etc.
+I don't care too much what language I use — yet I do prefer python on backend and javascript on frontend.
+I love both creating innovative digital products and working with my team, regardless of which affection spurred the other.
+Let's work, 
+Best regards,
+
+# Full Stack Java React AWS
+Hello,
+I'm , who is skilled at balancing vision with execution, delivering user-friendly, pixel-perfect front-end work, while also fully managing the design of API endpoints and database schema, DevOps, and MLOps on the back-end layer.
+
+Having reviewed your job description thoroughly, I'm confident that I'm well-suited for the task. My expertise spans a diverse array of programming languages, architecture styles and modern frameworks, including all the AWS product suite, Java/Spring, React/Next/Node, etc.
+I don't care too much what language I use — yet I do prefer Java on backend and javascript on frontend.
+2 years development experience at Amazon, both in the global exports and the music teams says AWS proficiency.
+I love both creating innovative digital products and working with my team, regardless of which affection spurred the other.
+Let's work, 
+Best regards,

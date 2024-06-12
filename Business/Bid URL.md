@@ -8,24 +8,25 @@ Click on a category to navigate to the corresponding section.
   - [Productivity - Scheduling](#productivity---scheduling)
   - [Branding](#branding)
   - [Productivity - Business Strategy](#productivity---business-strategy)
-  - [Ecommerce](#ecommerce-nextjs)
+  - [Ecommerce](#ecommerce---nextjs)
   - [Well-Being - Healthcare](#well-being---healthcare)
   - [Well-Being - Real Estate](#well-being---real-estate)
   - [Social - Designer Matching](#social---designer-matching)
   - [Productivity - Track Google Rankings](#productivity---track-google-rankings)
 - [MERN Stack](#mern-stack)
   - [Well-Being - Video Streaming](#well-being---video-streaming)
-  - [Productivity - Self-Product](#productivity---self-product)
 - [React](#react)
   - [Productivity - LMS](#productivity---lms)
   - [Well-Being - Gamification for Kids](#well-being---gamification-for-kids)
   - [Well-Being - Crowdfunding](#well-being---crowdfunding)
   - [Well-Being - Food Ordering](#well-being---food-ordering)
   - [Productivity - Construction Management](#productivity---construction-management)
+  - [Productivity - Self-Product](#productivity---self-product)
+
 - [Python](#python)
   - [Social](#social-python)
 - [Nuxt.js](#nuxtjs)
-  - [Productivity - Scheduling](#productivity---scheduling-nuxtjs)
+  - [Productivity - Scheduling](#productivity---scheduling---nuxtjs)
   - [Branding](#branding-nuxtjs)
 - [ASP.NET](#aspnet)
   - [Well-Being - Healthcare Management](#well-being---healthcare-management)
@@ -103,9 +104,8 @@ Click on a category to navigate to the corresponding section.
 
 ## Nuxt.js
 ### Productivity - Scheduling - Nuxt.js
-- Proflyt <https://proflyt.com/>
-
-### Branding - Nuxt.js
+- Proflyt <>
+### Branding - Nuxtjs
 - Avyan Hospitality <https://avyanhospitality.com/>
 - Friender App <https://frienderapp.com/>
 
