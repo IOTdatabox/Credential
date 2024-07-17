@@ -19,6 +19,8 @@ Click on a stack to navigate to the corresponding bid template.
 # Cover Letters by Job
 - [Full Stack Javascript](#full-stack-javascript)
 - [Full Stack Javascript & Python](#full-stack-javascript-python)
+- [Full Stack Java React AWS](#full-stack-java-react-aws)
+- [Full Stack Php Vue](#full-stack-php-vue)
 
 
 https://www.toogit.com/
@@ -47,11 +49,10 @@ Best Regards,
 
 ## BlockChain
 
-Hello Roland, I am a Blockchain and Cryptocurrency expert who is having +10 years of experience.
+Hello, I am a Blockchain and Cryptocurrency expert who is having +10 years of experience.
 I have rich hands on experience worked on Binance, Coinbase pro, STEX, ICO, Tron …etc cryptocurrence exchange platforms using RESTful, pancakeswap, uniswap, simpleswap api…etc.
 My skills are ETH, BTC, EGLD(Elrond), Dapp, TRON, DEFI, NFT, SOLIDITY, Smart contracts, ICO, TOKENS, …etc.
 I have successfully completed lots of cryptocurrency projects such as cryptocurrency exchange systems, cryptocurrency trading bots, deploying the smart contract and many other custom Blockchain solutions.
-Please check my reviews then you can believe my skills.
 I am ready to start working for you.
 Looking forward to hearing you.
 
@@ -218,7 +219,6 @@ I am , To provide immediately actionable intelligence on vessel operations is gr
 I believe that I can bring your SaaS to life by using my experience between technology and practicality.
 Node, React/Next, all the AWS product suite, or even Tailwind are all in the area of my hands-on experience.
 Almost frontends in all my previous projects were built with React/Next/Tailwind.
-Let's collaborate to bring your vision to life and achieve success together. Email back at your earliest convenience
 My primary expertise is React, Redux, Redux-thunk, Redux Saga, Next.js, Node.js, Express.js, ECMAScript6, Typescript, DB Programming, Webpack, Gulp, Grunt, Restful & 3rd Party API integration.
 Thanks and Regards,
 
@@ -242,7 +242,7 @@ Thanks and Regards,
 
 ## Shopify
 
-Hello, Lalacey team
+Hello,
 I am Aksel, super interested in enhancing your store.
 I've developed and modified many Shopify projects related with shipping, payment, fabulous design needs for products.
 Please have a closer look at the following store which I've built from scratch.
@@ -277,31 +277,49 @@ Best Regards,
 
 # Full Stack Javascript
 Hello,
-I'm , who is skilled at balancing vision with execution, delivering user-friendly, pixel-perfect front-end work, while also fully managing the design of API endpoints and database schema, DevOps, and MLOps on the back-end layer.
+I'm Aksel, who is skilled at balancing vision with execution, delivering user-friendly, pixel-perfect front-end work, while also managing the design of API endpoints and database schema, DevOps, and MLOps on the back-end layer.
 
-Having reviewed your job description thoroughly, I'm confident that I'm well-suited for the task. My expertise spans a diverse array of programming languages, architecture styles and modern frameworks, including all the AWS product suite, JS/TS, React/Next/Angular/Vue, Node/Nest, etc.
- I don't care too much what language I use — yet I do prefer javascript and it's frameworks.
+Having reviewed your job description thoroughly, I'm confident that I'm well-suited for the task. My expertise spans a diverse array of programming languages, architecture styles and modern frameworks, including all the AWS product suite, JS/TS, React/Next/Tailwind Css, Node/Nest, GraphQL, PostgreSQL/MySQL/TSQL, MongoDB, Docker, etc.
+I don't care too much what language I use — yet I do prefer javascript and it's frameworks.
 I love both creating innovative digital products and working with my team, regardless of which affection spurred the other.
-Let's work, 
+
+Looking forward to the opportunity how my skills and background can fill in your vacancy,
 Best regards,
+Aksel
 
 # Full Stack Javascript Python
 Hello,
-I'm , who is skilled at balancing vision with execution, delivering user-friendly, pixel-perfect front-end work, while also fully managing the design of API endpoints and database schema, DevOps, and MLOps on the back-end layer.
+I'm Aksel, who is skilled at balancing vision with execution, delivering user-friendly, pixel-perfect front-end work, while also fully managing the design of API endpoints and database schema, DevOps, and MLOps on the back-end layer.
 
-Having reviewed your job description thoroughly, I'm confident that I'm well-suited for the task. My expertise spans a diverse array of programming languages, architecture styles and modern frameworks, including all the AWS product suite, Python, Django, JS/TS, React/Next/Angular/Vue, etc.
-I don't care too much what language I use — yet I do prefer python on backend and javascript on frontend.
+Having reviewed your job description thoroughly, I'm confident that I'm well-suited for the task. My expertise spans a diverse array of programming languages, architecture styles and modern frameworks, including all the AWS product suite, Python, Django, GraphQL, PostgreSQL/MySQL/TSQL, FastAPI, JS/TS, React/Next, etc.
+I don't care too much what language I use — yet I do prefer Python on backend and javascript on frontend.
 I love both creating innovative digital products and working with my team, regardless of which affection spurred the other.
-Let's work, 
+
+Looking forward to the opportunity how my skills and background can fill in your vacancy,
 Best regards,
+Aksel
 
 # Full Stack Java React AWS
 Hello,
-I'm , who is skilled at balancing vision with execution, delivering user-friendly, pixel-perfect front-end work, while also fully managing the design of API endpoints and database schema, DevOps, and MLOps on the back-end layer.
+I'm Aksel, who is skilled at balancing vision with execution, delivering user-friendly, pixel-perfect front-end work, while also fully managing the design of API endpoints and database schema, DevOps, and MLOps on the back-end layer.
 
-Having reviewed your job description thoroughly, I'm confident that I'm well-suited for the task. My expertise spans a diverse array of programming languages, architecture styles and modern frameworks, including all the AWS product suite, Java/Spring, React/Next/Node, etc.
+Having reviewed your job description thoroughly, I'm confident that I'm well-suited for the task. My expertise spans a diverse array of programming languages, architecture styles and modern frameworks, including all the AWS product suite, Java/Spring, React/Next/Node, GraphQL,  PostgreSQL/MySQL/TSQL, MongoDB, DynamoDB, etc.
 I don't care too much what language I use — yet I do prefer Java on backend and javascript on frontend.
 2 years development experience at Amazon, both in the global exports and the music teams says AWS proficiency.
 I love both creating innovative digital products and working with my team, regardless of which affection spurred the other.
-Let's work, 
+
+Looking forward to the opportunity how my skills and background can fill in your vacancy,
 Best regards,
+Aksel
+
+# Full Stack Php Vue
+Hello,
+I'm Aksel, who is skilled at balancing vision with execution, delivering user-friendly, pixel-perfect front-end work, while also fully managing the design of API endpoints and database schema and DevOps on the back-end layer.
+
+Having reviewed your job description thoroughly, I'm confident that I'm well-suited for the task. My expertise spans a diverse array of programming languages, architecture styles and modern frameworks, including all the AWS product suite, Php/Laravel/Magento/Woocommerce, React/Next/Vue/Nuxt, Cypress, GraphQL,  PostgreSQL/MySQL/TSQL, MongoDB, DynamoDB, etc.
+I don't care too much what language I use — yet I do prefer Php on backend and javascript on frontend.
+Facebook and Wikipedia were made with Php!
+I love both creating innovative digital products and working with my team, regardless of which affection spurred the other.
+Looking forward to the opportunity how my skills and background can fill in your vacancy,
+Best regards,
+Aksel

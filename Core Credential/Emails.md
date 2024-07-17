@@ -22,7 +22,7 @@ A structured document detailing various email accounts with associated passwords
 
 
 ### Jclaxton Lean
-- **Email:** `jclaxton.lean@gmail.com`
+- **Email:** `jclaxton.lean@gmail.com` 
 - **Password:** `zxcZXC0-=)_+`
 - **Phone:** `15412417966`
 

@@ -11,7 +11,7 @@
 - **Email (Primary)**: anrisol@consultoriaexcel.es
 - **Email (Secondary)**: arip6370@gmail.com
 - **Upwork Credentials**:
-  - **Email**: *(not provided)*
+  - **Email**: arip6370@gmail.com
   - **Password**: Doni7379*
 - **Gmail Credentials**:
   - **Username**: antonioripollsovles@gmail.com
@@ -40,11 +40,10 @@
   - **Password**: VancouverTokyo2023
 
 ---
-re
 ## Aksel Allouch
 
 - **Phone**: 1-857-277-4668
-- **Discord**: akselhimself
+- **Discord**: buildontech
 - **Email**: aksel.allouch@gmail.com
 - **LinkedIn**: [akselallouch](https://www.linkedin.com/in/akselallouch)
 - **Twitter**: [@AkselAllouch](https://twitter.com/AkselAllouch)
@@ -63,3 +62,12 @@ re
   - aksel@futuralis.com
   - Amazon1983!
 https://calendly.com/akselallouch/30min
+
+https://www.linkedin.com/company/akselsoft/
+
+
+0xa83227ad9453d104880bB157f7Ad4327225bcB9a
+CPIF5X2R7ZOUCDAJOLKZ8SJFAE
+6ce634fc1f7f625917235dac575f63c5
+smmtasker@qq.com
+https://www.coinpayments.net/index.php?cmd=status&id=CPIF5X2R7ZOUCDAJOLKZ8SJFAE&key=6ce634fc1f7f625917235dac575f63c5

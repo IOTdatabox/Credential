@@ -13,6 +13,7 @@ Click on a category to navigate to the corresponding section.
   - [Well-Being - Real Estate](#well-being---real-estate)
   - [Social - Designer Matching](#social---designer-matching)
   - [Productivity - Track Google Rankings](#productivity---track-google-rankings)
+  - [Review Analysis](#review-analysis)
 - [MERN Stack](#mern-stack)
   - [Well-Being - Video Streaming](#well-being---video-streaming)
 - [React](#react)
@@ -73,6 +74,11 @@ Click on a category to navigate to the corresponding section.
 
 ### Productivity - Track Google Rankings
 - Wincher <https://www.wincher.com/>
+
+### Review Analysis
+- Review Guru <https://reviewguru.ai/>
+  - Transform Amazon product reviews into charts and insights for marketing, product development, and competitor analysis with our powerful sentiment analysis AI.
+  - Built with Next.js, Prompt Engineering, ChatGPT, etc.
 
 ## MERN Stack
 ### Well-Being - Video Streaming
