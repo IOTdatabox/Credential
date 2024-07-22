@@ -65,9 +65,11 @@ https://calendly.com/akselallouch/30min
 
 https://www.linkedin.com/company/akselsoft/
 
+---
+## Radu Dascalu
 
-0xa83227ad9453d104880bB157f7Ad4327225bcB9a
-CPIF5X2R7ZOUCDAJOLKZ8SJFAE
-6ce634fc1f7f625917235dac575f63c5
-smmtasker@qq.com
-https://www.coinpayments.net/index.php?cmd=status&id=CPIF5X2R7ZOUCDAJOLKZ8SJFAE&key=6ce634fc1f7f625917235dac575f63c5
+- **Phone**: 1-857-277-4668
+- **Discord**: interstellar_melon
+- **Email**: radu.dascalu97@gmail.com
+- **LinkedIn**: [radu-dascalu](https://www.linkedin.com/in/radu-dascalu/)
+- **Resume**: [@AkselAllouch](https://agate-shingle-f97.notion.site/Radu-Dascalu-74c2120d6aad4ad2a6b48ee4ece69de9)
