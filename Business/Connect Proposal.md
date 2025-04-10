@@ -6,11 +6,15 @@
 - [CTO, CEO, PM](#cto-ceo-pm)
 - [C-Level](#c-level)
 - [C-Level As C-Level](#c-level-as-c-level)
-- [Call Support Verbal](#call-support-verbal)
-- [Call Support Proposal](#call-support-proposal)
-- [Tech Expertise](#tech-expertise)
+- [Call Support](#call-support)
 - [Business Development](#business-development)
 - [Trading Bot](#trading-bot)
+- [Waison 1](#waison-1)
+- [Waison 2](#waison-2)
+- [Waison 3](#waison-3)
+- [Waison 4](#waison-4)
+- [Waison 5](#waison-5)
+- [Waison 6](#waison-6) 
 
 ## Business Partner Tailored
 I am a software engineer from Malaysia, currently living in Montreal. I know you have extensive experience in IT domain. Since graduating from college in 2016, I have been at the forefront of developing software products and web and mobile applications in fields like fintech, edtech, healthcare, e-commerce, data ETL, supply chain, and manufacturing until 2021.
@@ -80,20 +84,36 @@ Gmail: jasoncreativedeveloper@gmail.com
 Telegram:+1 762 360 4211
 Thanks & Regards
 
-## Call Support Verbal
-my team and I have built the fantastic relationship hub between developers, job seekers, those in need, and clients. We're essentially the bridge connecting them all. Each member of our team plays a unique role.
-We've got ID providers on board who are looking to make some cash, but they're struggling with work-life balance, you know? Think drivers, designers, street vendors, and the like. We take their info and craft profiles to help them land IT jobs. We transform them into skilled software developers, even though they might not be the smoothest when it comes to software engineering.
-Here's the kicker: they struggle with technical interviews and coding assessments, which are basically mandatory in the hiring process. That's where we need help. Our current developers aren't exactly fluent in English, so we're looking for some native English speakers to bridge the gap between the ID providers (who are mainly from the US, Canada, and the UK) and our developers.
-If these third-party developers land a gig, they'll work in the company at their hourly rates. The rest of the income goes to support my team and the ID providers. Makes sense so far?
-Now, if your developers are swamped with full-time gigs, we could potentially outsource their job offers to my developers.
-That's the gist of what I wanted to discuss. If you're intrigued by this business idea, I'd love to hear your thoughts!
-
-## Call Support Proposal
-I am looking for a good English speaker who can do audio call management in EST timezone.
-500$ per month salary
-Will require Good speaking English and basic tech skill.
-Full availability and 3 - 4 hours of call handling every day.
-Please DM me if interested.
+## Call Support
+🚀 We’re Hiring: Interview Assistance Role 🎙️
+Are you a strong communicator with a passion for technology? Join our team and help us connect with clients worldwide! 🌍
+About Us
+We are a team of developers based in Taiwan, specializing in web and mobile. With years of professional experience, we deliver high-quality results using cutting-edge technologies and modern workflows.
+The Opportunity
+As we expand into the U.S. market, we’re looking for a fluent English speaker with excellent communication skills and a basic understanding of development technologies to represent us during client interviews and project meetings. Your role will be pivotal in ensuring smooth communication and creating a professional impression.
+What You'll Do
+✅ Attend interviews and meetings with clients, representing our expertise.
+✅ Ensure clear and professional communication during video and voice calls.
+✅ Collaborate with clients in daily project meetings after projects are secured.
+What We’re Looking For
+🔹 Native or highly fluent English speaker.
+🔹 Basic understanding of web and mobile development (.Net, Java, JavaScript, Node.js, React.js, AWS, Azure, Github, etc.).
+🔹 Professional, confident, and adaptable in virtual meeting environments.
+🔹 Quick learner with the ability to ask relevant questions and suggest thoughtful solutions.
+Why Join Us?
+🌟 Competitive pay: 15-30% of project income based on your performance during interviews.
+🌟 Gain exposure to international clients and exciting projects.
+🌟 Full technical support and preparation for every interaction.
+🌟 Long-term collaboration opportunities.
+Our Process
+1️⃣ We provide details about the clients and their projects.
+2️⃣ You attend client interviews and meetings, showcasing our expertise.
+3️⃣ With your support, we ensure seamless communication and successful project onboarding.
+If you’re passionate about communication, technology, and working with a talented team of developers, we’d love to hear from you!
+📩 How to Apply
+Send your resume to whaydigital@gmail.com and include a brief introduction highlighting your communication experience and technical knowledge.
+Let’s build something amazing together! 🙌
+#Hiring #RemoteWork #InterviewAssistance #TechCommunication #WebDevelopment #MobileDevelopment #FreelanceOpportunities
 
 ## CTO, CEO, PM
 
@@ -175,3 +195,105 @@ I am so confident in my bot that I won't release it on the MT5 marketplace.
 Instead, I look forward to cooperation with a co-founder.
 I’m setting a GUARANTEE that it will increase your profit by 8% for every MONTH or it’s free forever.
 Anyone come to mind that should give it a try?
+
+## Waison 1
+Hey everyone! 👋 Waison, a founding engineer of Akselsoft. Let's talk about your end-to-end digital solution.
+
+💡 Services we crush:
+JS/TS/Node/Nest/React/Next, Java/Spring, .Net, All The AWS Product Suite, Redis, Grafana, Kafka, Github, GraphQL, Azure, Docker,  Kubernetes, Trello/Jira
+
+🔥 What We bring to the table:
+• Rapid SaaS Prototyping
+• Sustainable DevOps/System Admin
+• Scalable Cloud Architecture
+• Thorough Security Audit
+• Instant Data Insight
+• Seamless AI Integration
+
+👀 Looking to level up your solution? Hit us up!
+https://www.linkedin.com/in/waison-lee/
+
+https://calendly.com/lee-waison1029/love-tech-love-people-more
+
+## Waison 2
+Hello, We are AkselSoft. We connect the latest technologies and practicality.
+https://www.linkedin.com/company/akselsoft/
+🌏 Location: Boston, US
+👁️  About Me: As a globally-minded full-stack software engineer, I bring over a decade of experience to the table with a background in diverse industries such as eCommerce, Fintech, data management, and SaaS web/mobile applications development.
+🤝 : Why I'm here: Looking forward to connecting with SaaS founders - Whether you're in blue ocean or red ocean, we will help you as much as we can to ensure that the latest technologies meets your vision.
+❤️ Things I love: Love tech, Love people more
+Let's connect.
+https://calendly.com/lee-waison1029/love-tech-love-people-more
+
+## Waison 3
+Hi, My name is Waison, a senior full-stack engineer.
+I have been in IT for 10 years, working for companies, and it's the same story every, single, day.
+There is barely any value doing this at my point in career, and life.
+
+I would much rather build Saas startups, whether for side cashflow, or bigger startup ventures to go public. That is still the plan long-term.
+
+I am looking for a former engineer or digital (marketing, promotion, customer relationship) professional with a passion and entrepreneurial spirit to partner with me and start a software agency.
+If you want, keep doing what you are doing now. Even just supporting from the side would be a great help.
+
+If interested, please email me.
+
+This will be my primary focus for the rest of my life and therefore I am full of authenticity.
+
+waison.lee1029 at gmail dot com
+
+Thanks and Regards,
+Waison
+
+## Waison 4
+Hi , I hope you are doing well.
+I am Waison, a all-rounded software engineer with 10+ years of experience.
+I’m currently retiring from full-time employment and exploring AI, product-market fit, and other areas, driven by a passion for creating new value in the tech industry.
+
+I’m looking for a fellow enthusiast to partner with me, share expertise, and help build a software agency together.
+
+Plus, I am happy to join that kind of agency making own micro saas products and tacking the customer's projects.
+
+If you are interested or have any advise, I'd love to connect!
+
+Please email me.
+waison.lee1029 at gmail dot com
+
+Thanks and Regards,
+Waison
+
+## Waison 5
+
+As a full-stack engineer with a strong focus on UI/UX, I’m transitioning from full-time employment to freelancing, driven by a deep passion for creating impactful solutions for customers and the digital world. Over the years, I've developed a broad skill set, ranging from designing seamless user experiences to building robust backend architectures.
+
+I’ve been thinking about starting a software agency and am looking for a like-minded partner who can complement my strengths. I believe that combining our technical knowledge, business sense, and creativity, we could create something truly valuable and impactful. The aim would be to work together to deliver meaningful digital solutions for clients while scaling the business over time.
+
+I’m confident we could complement each other’s skills, making this a successful venture.
+
+The great thing is that I’m not necessarily looking for someone to be involved full-time right away.
+Even with part-time contributions, I believe we can start building a initial momentum and scale from there.
+
+If this sounds interesting to you, I’d love to explore the idea further and discuss how we could make this partnership work.
+Kindly email me
+waison.lee1029 at gmail dot com
+Looking forward to your thoughts!
+
+Best regards,  
+Waison
+
+
+
+## Waison 6
+Core Competencies:
+
+✅UI/UX Design: User Research, Prototyping, Figma
+✅UI Development: HTML, CSS, JavaScript, React, Next, React Native, Expo, Tailwind CSS, Shadcn
+✅API Integration: Postman, Axios, Validation, Error Handling
+✅Headless CMS: Sanity, Strapi, Omnichannel Content, Schema Markup
+✅BaaS: Supabase, Firebase, AWS Amplify
+✅No-Code: Webflow, Wordpress, SquareSpace
+✅SEO: Long-Tail Keywords, GA , GTM
+
+In short, I deliver all-in-one online presences with featured Pixel-Perfect, Mobile-Responsiveness, Server Side Rendering, SEO, Close to 0 - Loading Time.
+So your customers come, see and love you, your brand and your service - That's my job.
+
+Waison

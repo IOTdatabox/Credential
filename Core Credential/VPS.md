@@ -2,7 +2,7 @@
 
 - **IP Address:** `185.167.62.42`
 - **Username:** `Administrator`
-- **Password:** `zxcZXC0-=)_+`
+- **Password:** `LdVWhK6VJH7i`
 
 ## Canada Linkedin (Waison Lee)
 

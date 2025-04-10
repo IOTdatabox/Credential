@@ -8,6 +8,21 @@ https://techicons.dev/
 
 https://rocketreach.co/
 
+https://upvote.club/ ----------- X Followers
+https://htmlrev.com/ ----------- Free Next.js, etc Templates
+https://applyall.com/ ---------- Job Apply
+https://www.uneed.best/ -------- Alternative of Product Hunt
+https://www.myprepaidcenter.com/
+
+https://www.coinsbee.com/
+https://rewarble.com/
+
+wyzant.com
+
+https://www.ilovepdf.com/ ------------E-Sign
+
+
+
 https://discord.gg/furlough
 
 https://discord.gg/GfxMKU7y

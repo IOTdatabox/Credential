@@ -1,9 +1,11 @@
-I am Waison Lee, a full-stack software engineer with a global mindset and years of experience working in a bunch of different fields like eCommerce, Fintech, data management and building SaaS applications for both web and mobile.
+I'm Waison, a professional UI engineer and a full-stack JavaScript developer. Throughout my career, I've built over 100 websites from scratch and revamped more than 50. My work is known for well-architected layouts, typography, mobile responsiveness, and SEO optimization. I rely on my expertise in React, Next.js, Node.js, Shopify, Squarespace, HTML, Tailwind CSS, AWS, GitHub, and more to deliver high-quality solutions.
 
-Recently, I started a new chapter as a co-founder of Akselsoft, and right now, I'm all in on making sure our operations run smoothly. We're just starting out, but we've got big plans and the drive to make something meaningful happen.
+One of my notable achievements was developing a comprehensive solution to help businesses rapidly transform by identifying unique attributes, setting clear goals, mitigating risks, and leveraging automation. The project aimed to enhance online presence, engage audiences, and optimize marketing strategies for growth. It involved multiple components like business identification, web optimization, and social interaction, making the UI/UX and backend architecture as complex as Notion.
 
-Our world today is really crying out for digital solutions. Whether you look at healthcare, insurance, or finance, finding software you can really trust is still a big deal.
+I collaborated with designers and product managers from the wireframe stage, contributing technical insights that helped shape the final design. I used Next.js for componentization, managed state with Redux, and styled with Tailwind CSS and Shadcn. On the backend, I developed RESTful and GraphQL API endpoints using Node.js, adhering to validation and error-handling standards. I also integrated ChatGPT API to generate content, identify target audiences, and suggest products, ensuring a smooth user experience.
 
-And take social networks—none of them have quite nailed how to celebrate everyone's differences without letting the harmful stuff get through.
+As the project manager, I promoted a collaborative team culture, with no conflicts during the six-month beta development. The product launched on time and reached over 10K users within one month, thanks to the efforts of both the engineering and marketing teams.
 
-There are so many ways software can help make life better—making work more efficient, improving well-being, or helping people connect with each other. We know we can't fix every problem, but we're committed to throwing all our creativity and skills into delivering innovative solutions that match what our clients are dreaming of and are facing on.
+Though I have deep experience in various technologies, I continue to learn and explore new areas like AI and product-market fit. I’m transitioning from full-time employment to freelancing, driven by my passion for creating value in the tech industry.
+
+I'm eager to take on new challenges and deliver high-value solutions to my clients. Thank you for considering me, and I look forward to the opportunity to work together.

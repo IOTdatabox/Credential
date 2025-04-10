@@ -12,13 +12,13 @@ A structured document detailing various email accounts with associated passwords
 
 ### Waison Lee (Alternate1)
 - **Email:** `whaydigital@gmail.com`
-- **Backup Email:** `uo0901576@gmail.com`
+- **Backup Email:** `contact@akselsoft.com`
 - **Password:** `zxcZXC0-=)_+`
 - **Phone:** `+1 541 241 7966`
 
 ### Waison Lee (Alternate2)
 - **Email:** `waison.lee1029@gmail.com`
-- **Password:** `yang1234!@#$`
+- **Password:** `Yang1234!@#$`
 
 
 ### Jclaxton Lean
@@ -36,6 +36,7 @@ A structured document detailing various email accounts with associated passwords
 ### Thomson Air Base Management (Tim's Mail)
 - **Email:** `basemag@thomsonair.com.au`
 - **Password:** `Xos96252`
+- **AWS_Key:** `KRDMOETQSR4AKSRJWQK457ZWE3CZBLJKQ75YCVHRN54F2IDAXRCTR2KPJMMYITEG`
 
 
 ## Other Emails

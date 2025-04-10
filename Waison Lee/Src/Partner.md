@@ -57,7 +57,7 @@
   - **Anydesk ID and Password**: 1064144497 / Aksel1983!
   - **Github**: Aksel1983! / BF2WYS5HIK54K5FK
   - **VNC Address and Password**: 76.19.212.93:5900 / Aksel123
-- **SSN (Last 4 Digits)**: 3966
+- **SSN (Last 4 Digits)**: 3966 
 - **AWS**:
   - aksel@futuralis.com
   - Amazon1983!
@@ -66,10 +66,45 @@ https://calendly.com/akselallouch/30min
 https://www.linkedin.com/company/akselsoft/
 
 ---
-## Radu Dascalu
 
-- **Phone**: 1-857-277-4668
-- **Discord**: interstellar_melon
-- **Email**: radu.dascalu97@gmail.com
-- **LinkedIn**: [radu-dascalu](https://www.linkedin.com/in/radu-dascalu/)
-- **Resume**: [@AkselAllouch](https://agate-shingle-f97.notion.site/Radu-Dascalu-74c2120d6aad4ad2a6b48ee4ece69de9)
+## Jay Tapsell
+
+- **Phone**: 
+- **Discord**: iivaldo
+- **Email**: jaytapsell24@gmail.com : Navo2024!
+- **LinkedIn**: []()
+- **Twitter**: []()
+- **Github**: [iivaLDO](https://github.com/iivaLDO)
+
+- **Address**:
+  - 41 Walnut St Apt 3
+  - Chester, UK CH653DF
+  - Massachusetts
+- **Credentials**:
+  - **Upwork Password**: Navo2024!
+  - **Contra Password**: Navo2024!
+  - **Anydesk ID and Password**: 134340315 / Dashboard1@
+  - **Github**: Navo2024! / 
+
+
+## Jordan 
+
+- **Phone**: +7 747 936 8552
+- **Email**: heathymerson@gmail.com : J&d2401228
+- **LinkedIn**: []()
+- **Twitter**: []()
+- **Github**: [iivaLDO](https://github.com/)
+
+- **Address**:
+  - Kamzina 172
+  - Pavlodar, 140000
+  - Kazakhstan
+your favorite sports team : chiefs
+
+Got lisps
+At six years old one dude threw a brick in my face and got my tooth broken and over the years my speech became sloppy and only recently that tooth was medically restored but it didn’t do much with the speech
+
+
+Jerell
+1017158970
+Success2024

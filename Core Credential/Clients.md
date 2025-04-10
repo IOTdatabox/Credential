@@ -107,3 +107,18 @@ A detailed roster of client contacts categorized by country and project context.
 - **Developer Pseudonym:** Waison Lee
 - **Website:** [Sup3rnova](https://sup3rnova.com/)
 - **Contact:** Whatsapp - `1-787-607-4804`
+
+### Pranjal Bishnoi
+- **Context:** Social Media Marketing
+- **Contact:** Voice call +91 79885 76031
+
+### Umar
+- **Context:** SaaS Link Provider
+- **Contact:** Voice call +92 309 6507180
+
+### Hassan Ali
+- **Context:** Python Developer
+- **Contact:** Voice call +92 312 0644706
+
+
+

@@ -214,13 +214,8 @@ Best regards,
 
 ## React
 
-Hi,
-I am , To provide immediately actionable intelligence on vessel operations is great value In Singapore.
-I believe that I can bring your SaaS to life by using my experience between technology and practicality.
-Node, React/Next, all the AWS product suite, or even Tailwind are all in the area of my hands-on experience.
-Almost frontends in all my previous projects were built with React/Next/Tailwind.
-My primary expertise is React, Redux, Redux-thunk, Redux Saga, Next.js, Node.js, Express.js, ECMAScript6, Typescript, DB Programming, Webpack, Gulp, Grunt, Restful & 3rd Party API integration.
-Thanks and Regards,
+Hi, I hope you are doing well.
+I'm a senior full-stack engineer with over a decade years of experience in web development from small-sized business to large scale enterprise-level software solutions. I've been focused on JS frameworks and libraries like React, Next.js and Node.js. As a front-end developer, I continuously delivered pixel-perfect and mobile friendly UI/UX with exceptional and phenomenal customer experience. I'm proficient in using TailwindCSS, Shadcn/ui and Material UI. I was included in several professional scrum teams which follow agile methodologies, there I played pivotal roles while building clean codebase using best coding practices with TypeScript, successful full-stack starter kit with Axios, TanStack Query, Formik and Redux. I often used Zustand instead of Redux when it comes to small MVP development. As a back-end engineer, I mastered MERN stack and always took part of building CI/CD pipelines using GitHub actions, Docker and Makefile on several cloud platforms such as AWS, Heroku and Netlify. My advantage as a back-end developer is that I wrote well architected and clear API documentation using Postman and Swagger. I'm really interested in this position and I'm sure that my result would be clear and good enough above your expectation.
 
 ## Next
 
@@ -230,7 +225,7 @@ I'm , who is skilled at balancing vision with execution, delivering user-friendl
 Through out of my career handled several Next.js projects, I have years of experience in Next itself, React/Redux/Node, Tailwind CSS, Typescript, GraphQL, Docker, Jest, etc.
 
 Please take a closer look at the comprehensive RV spots service to which I have proactively contributed by enhancing its functionalities.
-https://www.hipcamp.com/en-US
+https://www.hipcamp.com
 
 In the project, I built all spot gallery components/pages and utilized React Query for data fetching and implemented Caching layer with Redis.
 Also, I audited comprehensive postgreSQL infra in Supabase and applied query/schema optimization.
@@ -323,3 +318,35 @@ I love both creating innovative digital products and working with my team, regar
 Looking forward to the opportunity how my skills and background can fill in your vacancy,
 Best regards,
 Aksel
+
+
+Hello,
+
+
+
+It is my honor to have an opportunity to work for you.
+I was a front end lead developer at WDMarket
+
+In the past, I've took part in buidling two niche hiring platforms as a UX-focused full-stack developer.
+
+https://youteam.co.uk/
+https://havenly.com/
+Developed a mobile-responsive admin dashboard, designer dashboard, partner dashboard, client dashboard components using Next.js, React.js, and Tailwind CSS.
+Designed and Developed Database schema for both of MongoDB and PostgreSQL.
+Implemented several core APIs like contract management using Next.js App Router, Supabase, MongoDB Atlas.
+Utilized Prismic to efficiently manage all images and related content. (at Hevenly)
+Integrated GA4, GTM, Tiktok Pixel, Facebook Pixel to track user interactions, enhancing domain authority (DA) and data analysis and optimizing on-site SEO.
+Orchestrated seamless CI/CD pipelines using GitHub Actions for efficient automated deployment and integration.
+Mentored junior developers.
+Maintained a test-driven development (TDD) approach throughout the entire development lifecycle, from the initial stages to final rollout.
+
+Of course I received the good review from Lauris Priede, the CTO at WDMarket.lv.
+So I am so confident that I can be a stronger performer and contender in your workplace.
+Looking forward to working for you.
+
+
+Sincerely,
+Vlady
+
+
+Here is my latest work and please check: https://flytravel.lv
