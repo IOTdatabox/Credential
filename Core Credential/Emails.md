@@ -12,7 +12,7 @@ A structured document detailing various email accounts with associated passwords
 
 ### Waison Lee (Alternate1)
 - **Email:** `whaydigital@gmail.com`
-- **Backup Email:** `contact@akselsoft.com`
+- **Backup Email:** `uo0901576@gmail.com`
 - **Password:** `Love_People!`
 - **Phone:** `+1 541 241 7966`
 
